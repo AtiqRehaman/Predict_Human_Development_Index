@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Human Development Index - Home</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="navbar">
+        <div style="font-weight: 700; font-size: 18px; color: #38bdf8;">HDI Predictor</div>
+        <div>
+            <a href="/Home">Home</a>
+            <a href="/Prediction">Predict</a>
+        </div>
+    </div>
+    <h1>Human Development Index</h1>
+    <div class="content-box">
+        <p>
+            The <strong>Human Development Index (HDI)</strong> is a composite statistic measuring life expectancy, education, and per capita income indicators. It ranks countries into tiers of human development.
+        </p>
+        <p style="margin-top: 20px;">
+            Our advanced machine learning model analyzes socioeconomic components to dynamically classify and predict regional developments. By considering life expectancy, educational attainment, and gross national income, we provide accurate HDI classifications for regions worldwide.
+        </p>
+        <p style="margin-top: 20px; font-style: italic; color: rgba(255, 255, 255, 0.8);">
+            Ready to predict? Click on <strong>"Predict"</strong> in the navigation menu to get started.
+        </p>
+    </div>
+</body>
+</html>
