@@ -182,4 +182,4 @@ The application will start at `http://localhost:5000`
 ---
 
 ### 🚀 Deployed Link 
-🔗 predict-human-development-index.vercel.app
+🔗 [predict-human-development-index.vercel.app](predict-human-development-indevercel.app)
