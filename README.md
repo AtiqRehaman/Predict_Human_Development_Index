@@ -177,7 +177,7 @@ The application will start at `http://localhost:5000`
    - Mean Years of Schooling (1-15)
    - GNI per Capita (400-140,000)
    - Internet Users (0-100%)
-3. **Results**: View the predicted HDI value with classification
+3. **Results**: View the predicted HDI value with classifications
 
 ---
 
